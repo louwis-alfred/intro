@@ -40,7 +40,7 @@ const Hero = () => {
               animate={{ y: 0, opacity: 1 }}
               transition={{ delay: 0.8, duration: 1 }}
             >
-              Everyday is a blessing.
+              Everyday is a blessing
             </motion.p>
           </div>
         </div>
