@@ -43,7 +43,7 @@ const About = () => {
           transition={{ duration: 1.5 }}
         >
           <p className="my-2 max-w-xl py-6 px-4 sm:px-6 md:px-8 text-neutral-300">
-            I am a 21-year-old from the Philippines, currently a senior studying Information Technology at State University. I was an amateur esports player back then, ranked 44th in Challenger LoL PH and 167th in Wild Rift across all of Asia. My first experience with coding came by the end of senior high school, where I tried to create a simple video game. Since then, I discovered how to build websites using JavaScript and developed simple AI programs with Python. Everyday I challenge myself by solving problems on LeetCode, DSA, and exploring system design—areas where I still have much to learn but strive to improve every day.
+             Currently a senior studying Information Technology at State University. I was an amateur esports player back then, ranked 44th in Challenger LoL PH and 167th in Wild Rift across all of Asia. My first experience with coding came by the end of senior high school, where I tried to create a simple video game. Since then, I discovered how to build websites using JavaScript and developed simple AI programs with Python. Everyday I challenge myself by solving problems on LeetCode, DSA, and exploring system design—areas where I still have much to learn but strive to improve every day.
           </p>
         </motion.div>
       </div>
