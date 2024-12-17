@@ -5,7 +5,7 @@ const EVENTS = [
     year: "2024",
     title: "KMC Hackathon",
     description:
-      "Built an application using ReactJS for the front-end and Python for the back-end that applies Natural Language Processing (NLP) to help end-users better understand and meet the company's requirements.",
+      "Built an application using ReactJS for the front-end and Python for the back-end that applies Natural Language Processing.",
   },
   // Add more events if needed to see the staggered effect
 ];
