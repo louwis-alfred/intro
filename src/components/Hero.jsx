@@ -25,12 +25,12 @@ const Hero = () => {
 
             {/* Animated Subtitle */}
             <motion.span
-              className="bg-gradient-to-r from-teal-300 via-blue-300 to-indigo-400 bg-clip-text text-4xl tracking-tight text-transparent"
+              className="bg-gradient-to-r from-teal-300 via-blue-300 to-indigo-400 bg-clip-text text-4xl tracking-tight text-transparent lg:justify-start text-center"
               initial={{ y: -20, opacity: 0 }}
               animate={{ y: 0, opacity: 1 }}
               transition={{ delay: 0.5, duration: 1.2 }}
             >
-              Software Developer Intern
+              Just a person who loves tinola
             </motion.span>
 
             {/* Motivational Quote */}

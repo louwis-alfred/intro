@@ -1,4 +1,4 @@
-import about from "../assets/about.jpg";
+import about from "../assets/mypicture1.jpg";
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 
