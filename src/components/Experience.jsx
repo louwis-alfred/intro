@@ -2,15 +2,16 @@ import { motion } from "framer-motion";
 
 const EXPERIENCES = [
   {
-    year: "2023-2024",
-    title: "Google Crash Course on Python",
-    description: "Completed Google's Python crash course, mastering the basics of Python programming.",
-  },
-  {
     year: "2022-2023",
     title: "Scientific Computing with Python",
     description: "Mastered Python libraries like NumPy, Pandas, and Matplotlib to perform data analysis and scientific computing tasks.",
   },
+  {
+    year: "2023-2024",
+    title: "Google Crash Course on Python",
+    description: "Completed Google's Python crash course, mastering the basics of Python programming.",
+  },
+
   {
     year: "2023-2024",
     title: "ChatGPT Prompt Engineering",
